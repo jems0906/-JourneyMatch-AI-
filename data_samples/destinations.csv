@@ -1,0 +1,109 @@
+city,country,airport,climate,avg_cost,accessibility,interests,description
+Cancun,Mexico,CUN,warm,1750,true,beach|food|culture|relaxation,"A bright Caribbean escape with calm water, historic neighborhoods, and easy resort access."
+Lisbon,Portugal,LIS,mild,1900,true,food|culture|history|nightlife,"A walkable Atlantic city of tiled streets, neighborhood bakeries, and nearby coastlines."
+Honolulu,United States,HNL,warm,2850,true,beach|nature|adventure|relaxation,"An island base for beaches, volcanic landscapes, and a deep Pacific cultural mix."
+Barcelona,Spain,BCN,mild,2200,true,food|culture|history|nightlife,"Mediterranean energy, bold architecture, long lunches, and an accessible urban beach."
+Reykjavik,Iceland,KEF,cold,2600,true,nature|adventure|relaxation,"A compact Nordic capital that opens into geothermal pools, waterfalls, and northern landscapes."
+Tokyo,Japan,NRT,mild,2450,true,food|culture|history|nightlife,A high-energy city where centuries-old neighborhoods sit beside precise modern design.
+Cape Town,South Africa,CPT,warm,2050,false,nature|food|adventure|culture,"A dramatic coastal city framed by mountains, vineyards, and a layered culinary scene."
+Vancouver,Canada,YVR,mild,2300,true,nature|food|adventure|relaxation,"An easygoing Pacific city with mountain access, excellent food, and urban green space."
+Valencia,Spain,VLC,mild,1500,true,food|culture|beach,A curated mild travel starting point in Valencia with food and culture.
+Marrakesh,Morocco,RAK,warm,1500,true,food|culture|history,A curated warm travel starting point in Marrakesh with food and culture.
+Auckland,New Zealand,AKL,mild,1500,true,nature|adventure|food,A curated mild travel starting point in Auckland with nature and adventure.
+San Jose,Costa Rica,SJO,warm,1500,true,nature|adventure|relaxation,A curated warm travel starting point in San Jose with nature and adventure.
+Edinburgh,United Kingdom,EDI,cold,1500,true,history|culture|food,A curated cold travel starting point in Edinburgh with history and culture.
+Athens,Greece,ATH,warm,1500,true,history|culture|food,A curated warm travel starting point in Athens with history and culture.
+Seoul,South Korea,ICN,mild,1500,true,food|culture|nightlife,A curated mild travel starting point in Seoul with food and culture.
+Melbourne,Australia,MEL,mild,1500,true,food|culture|nature,A curated mild travel starting point in Melbourne with food and culture.
+Montreal,Canada,YUL,cold,1500,true,food|culture|history,A curated cold travel starting point in Montreal with food and culture.
+Cartagena,Colombia,CTG,warm,1500,true,beach|food|history,A curated warm travel starting point in Cartagena with beach and food.
+Valencia,Spain,VLC,mild,1637,true,food|culture|beach,A curated mild travel starting point in Valencia with food and culture.
+Marrakesh,Morocco,RAK,warm,1637,true,food|culture|history,A curated warm travel starting point in Marrakesh with food and culture.
+Auckland,New Zealand,AKL,mild,1637,true,nature|adventure|food,A curated mild travel starting point in Auckland with nature and adventure.
+San Jose,Costa Rica,SJO,warm,1637,true,nature|adventure|relaxation,A curated warm travel starting point in San Jose with nature and adventure.
+Edinburgh,United Kingdom,EDI,cold,1637,true,history|culture|food,A curated cold travel starting point in Edinburgh with history and culture.
+Athens,Greece,ATH,warm,1637,true,history|culture|food,A curated warm travel starting point in Athens with history and culture.
+Seoul,South Korea,ICN,mild,1637,true,food|culture|nightlife,A curated mild travel starting point in Seoul with food and culture.
+Melbourne,Australia,MEL,mild,1637,true,food|culture|nature,A curated mild travel starting point in Melbourne with food and culture.
+Montreal,Canada,YUL,cold,1637,true,food|culture|history,A curated cold travel starting point in Montreal with food and culture.
+Cartagena,Colombia,CTG,warm,1637,true,beach|food|history,A curated warm travel starting point in Cartagena with beach and food.
+Valencia,Spain,VLC,mild,1774,true,food|culture|beach,A curated mild travel starting point in Valencia with food and culture.
+Marrakesh,Morocco,RAK,warm,1774,true,food|culture|history,A curated warm travel starting point in Marrakesh with food and culture.
+Auckland,New Zealand,AKL,mild,1774,true,nature|adventure|food,A curated mild travel starting point in Auckland with nature and adventure.
+San Jose,Costa Rica,SJO,warm,1774,true,nature|adventure|relaxation,A curated warm travel starting point in San Jose with nature and adventure.
+Edinburgh,United Kingdom,EDI,cold,1774,true,history|culture|food,A curated cold travel starting point in Edinburgh with history and culture.
+Athens,Greece,ATH,warm,1774,true,history|culture|food,A curated warm travel starting point in Athens with history and culture.
+Seoul,South Korea,ICN,mild,1774,true,food|culture|nightlife,A curated mild travel starting point in Seoul with food and culture.
+Melbourne,Australia,MEL,mild,1774,true,food|culture|nature,A curated mild travel starting point in Melbourne with food and culture.
+Montreal,Canada,YUL,cold,1774,true,food|culture|history,A curated cold travel starting point in Montreal with food and culture.
+Cartagena,Colombia,CTG,warm,1774,true,beach|food|history,A curated warm travel starting point in Cartagena with beach and food.
+Valencia,Spain,VLC,mild,1911,true,food|culture|beach,A curated mild travel starting point in Valencia with food and culture.
+Marrakesh,Morocco,RAK,warm,1911,true,food|culture|history,A curated warm travel starting point in Marrakesh with food and culture.
+Auckland,New Zealand,AKL,mild,1911,true,nature|adventure|food,A curated mild travel starting point in Auckland with nature and adventure.
+San Jose,Costa Rica,SJO,warm,1911,true,nature|adventure|relaxation,A curated warm travel starting point in San Jose with nature and adventure.
+Edinburgh,United Kingdom,EDI,cold,1911,true,history|culture|food,A curated cold travel starting point in Edinburgh with history and culture.
+Athens,Greece,ATH,warm,1911,true,history|culture|food,A curated warm travel starting point in Athens with history and culture.
+Seoul,South Korea,ICN,mild,1911,true,food|culture|nightlife,A curated mild travel starting point in Seoul with food and culture.
+Melbourne,Australia,MEL,mild,1911,true,food|culture|nature,A curated mild travel starting point in Melbourne with food and culture.
+Montreal,Canada,YUL,cold,1911,true,food|culture|history,A curated cold travel starting point in Montreal with food and culture.
+Cartagena,Colombia,CTG,warm,1911,true,beach|food|history,A curated warm travel starting point in Cartagena with beach and food.
+Valencia,Spain,VLC,mild,2048,true,food|culture|beach,A curated mild travel starting point in Valencia with food and culture.
+Marrakesh,Morocco,RAK,warm,2048,true,food|culture|history,A curated warm travel starting point in Marrakesh with food and culture.
+Auckland,New Zealand,AKL,mild,2048,true,nature|adventure|food,A curated mild travel starting point in Auckland with nature and adventure.
+San Jose,Costa Rica,SJO,warm,2048,true,nature|adventure|relaxation,A curated warm travel starting point in San Jose with nature and adventure.
+Edinburgh,United Kingdom,EDI,cold,2048,true,history|culture|food,A curated cold travel starting point in Edinburgh with history and culture.
+Athens,Greece,ATH,warm,2048,true,history|culture|food,A curated warm travel starting point in Athens with history and culture.
+Seoul,South Korea,ICN,mild,2048,true,food|culture|nightlife,A curated mild travel starting point in Seoul with food and culture.
+Melbourne,Australia,MEL,mild,2048,true,food|culture|nature,A curated mild travel starting point in Melbourne with food and culture.
+Montreal,Canada,YUL,cold,2048,true,food|culture|history,A curated cold travel starting point in Montreal with food and culture.
+Cartagena,Colombia,CTG,warm,2048,true,beach|food|history,A curated warm travel starting point in Cartagena with beach and food.
+Valencia,Spain,VLC,mild,2185,true,food|culture|beach,A curated mild travel starting point in Valencia with food and culture.
+Marrakesh,Morocco,RAK,warm,2185,true,food|culture|history,A curated warm travel starting point in Marrakesh with food and culture.
+Auckland,New Zealand,AKL,mild,2185,true,nature|adventure|food,A curated mild travel starting point in Auckland with nature and adventure.
+San Jose,Costa Rica,SJO,warm,2185,true,nature|adventure|relaxation,A curated warm travel starting point in San Jose with nature and adventure.
+Edinburgh,United Kingdom,EDI,cold,2185,true,history|culture|food,A curated cold travel starting point in Edinburgh with history and culture.
+Athens,Greece,ATH,warm,2185,true,history|culture|food,A curated warm travel starting point in Athens with history and culture.
+Seoul,South Korea,ICN,mild,2185,true,food|culture|nightlife,A curated mild travel starting point in Seoul with food and culture.
+Melbourne,Australia,MEL,mild,2185,true,food|culture|nature,A curated mild travel starting point in Melbourne with food and culture.
+Montreal,Canada,YUL,cold,2185,true,food|culture|history,A curated cold travel starting point in Montreal with food and culture.
+Cartagena,Colombia,CTG,warm,2185,true,beach|food|history,A curated warm travel starting point in Cartagena with beach and food.
+Valencia,Spain,VLC,mild,2322,true,food|culture|beach,A curated mild travel starting point in Valencia with food and culture.
+Marrakesh,Morocco,RAK,warm,2322,true,food|culture|history,A curated warm travel starting point in Marrakesh with food and culture.
+Auckland,New Zealand,AKL,mild,2322,true,nature|adventure|food,A curated mild travel starting point in Auckland with nature and adventure.
+San Jose,Costa Rica,SJO,warm,2322,true,nature|adventure|relaxation,A curated warm travel starting point in San Jose with nature and adventure.
+Edinburgh,United Kingdom,EDI,cold,2322,true,history|culture|food,A curated cold travel starting point in Edinburgh with history and culture.
+Athens,Greece,ATH,warm,2322,true,history|culture|food,A curated warm travel starting point in Athens with history and culture.
+Seoul,South Korea,ICN,mild,2322,true,food|culture|nightlife,A curated mild travel starting point in Seoul with food and culture.
+Melbourne,Australia,MEL,mild,2322,true,food|culture|nature,A curated mild travel starting point in Melbourne with food and culture.
+Montreal,Canada,YUL,cold,2322,true,food|culture|history,A curated cold travel starting point in Montreal with food and culture.
+Cartagena,Colombia,CTG,warm,2322,true,beach|food|history,A curated warm travel starting point in Cartagena with beach and food.
+Valencia,Spain,VLC,mild,2459,true,food|culture|beach,A curated mild travel starting point in Valencia with food and culture.
+Marrakesh,Morocco,RAK,warm,2459,true,food|culture|history,A curated warm travel starting point in Marrakesh with food and culture.
+Auckland,New Zealand,AKL,mild,2459,true,nature|adventure|food,A curated mild travel starting point in Auckland with nature and adventure.
+San Jose,Costa Rica,SJO,warm,2459,true,nature|adventure|relaxation,A curated warm travel starting point in San Jose with nature and adventure.
+Edinburgh,United Kingdom,EDI,cold,2459,true,history|culture|food,A curated cold travel starting point in Edinburgh with history and culture.
+Athens,Greece,ATH,warm,2459,true,history|culture|food,A curated warm travel starting point in Athens with history and culture.
+Seoul,South Korea,ICN,mild,2459,true,food|culture|nightlife,A curated mild travel starting point in Seoul with food and culture.
+Melbourne,Australia,MEL,mild,2459,true,food|culture|nature,A curated mild travel starting point in Melbourne with food and culture.
+Montreal,Canada,YUL,cold,2459,true,food|culture|history,A curated cold travel starting point in Montreal with food and culture.
+Cartagena,Colombia,CTG,warm,2459,true,beach|food|history,A curated warm travel starting point in Cartagena with beach and food.
+Valencia,Spain,VLC,mild,2596,true,food|culture|beach,A curated mild travel starting point in Valencia with food and culture.
+Marrakesh,Morocco,RAK,warm,2596,true,food|culture|history,A curated warm travel starting point in Marrakesh with food and culture.
+Auckland,New Zealand,AKL,mild,2596,true,nature|adventure|food,A curated mild travel starting point in Auckland with nature and adventure.
+San Jose,Costa Rica,SJO,warm,2596,true,nature|adventure|relaxation,A curated warm travel starting point in San Jose with nature and adventure.
+Edinburgh,United Kingdom,EDI,cold,2596,true,history|culture|food,A curated cold travel starting point in Edinburgh with history and culture.
+Athens,Greece,ATH,warm,2596,true,history|culture|food,A curated warm travel starting point in Athens with history and culture.
+Seoul,South Korea,ICN,mild,2596,true,food|culture|nightlife,A curated mild travel starting point in Seoul with food and culture.
+Melbourne,Australia,MEL,mild,2596,true,food|culture|nature,A curated mild travel starting point in Melbourne with food and culture.
+Montreal,Canada,YUL,cold,2596,true,food|culture|history,A curated cold travel starting point in Montreal with food and culture.
+Cartagena,Colombia,CTG,warm,2596,true,beach|food|history,A curated warm travel starting point in Cartagena with beach and food.
+Valencia,Spain,VLC,mild,2733,true,food|culture|beach,A curated mild travel starting point in Valencia with food and culture.
+Marrakesh,Morocco,RAK,warm,2733,true,food|culture|history,A curated warm travel starting point in Marrakesh with food and culture.
+Auckland,New Zealand,AKL,mild,2733,true,nature|adventure|food,A curated mild travel starting point in Auckland with nature and adventure.
+San Jose,Costa Rica,SJO,warm,2733,true,nature|adventure|relaxation,A curated warm travel starting point in San Jose with nature and adventure.
+Edinburgh,United Kingdom,EDI,cold,2733,true,history|culture|food,A curated cold travel starting point in Edinburgh with history and culture.
+Athens,Greece,ATH,warm,2733,true,history|culture|food,A curated warm travel starting point in Athens with history and culture.
+Seoul,South Korea,ICN,mild,2733,true,food|culture|nightlife,A curated mild travel starting point in Seoul with food and culture.
+Melbourne,Australia,MEL,mild,2733,true,food|culture|nature,A curated mild travel starting point in Melbourne with food and culture.
+Montreal,Canada,YUL,cold,2733,true,food|culture|history,A curated cold travel starting point in Montreal with food and culture.
+Cartagena,Colombia,CTG,warm,2733,true,beach|food|history,A curated warm travel starting point in Cartagena with beach and food.

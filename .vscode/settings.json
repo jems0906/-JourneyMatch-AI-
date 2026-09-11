@@ -1,0 +1,4 @@
+{
+  "python.analysis.extraPaths": ["${workspaceFolder}", "${workspaceFolder}/backend"],
+  "json.schemaDownload.enable": true
+}

@@ -1,0 +1,10 @@
+{
+  "include": ["backend", "training"],
+  "extraPaths": ["backend"],
+  "executionEnvironments": [
+    {
+      "root": "notebooks",
+      "extraPaths": [".", "../backend"]
+    }
+  ]
+}
